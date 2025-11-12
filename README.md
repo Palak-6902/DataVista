@@ -1,4 +1,4 @@
-# DataBoard - _Data Analysis and Visualization Web Application_
+# DataVista - _Data Analysis and Visualization Web Application_
 
 ## Overview
 This interactive web application enables users to seamlessly upload, analyze, visualize, and forecast datasets in a single interface. The platform provides end-to-end data handling (from login and dataset upload to dynamic reporting and personalized dashboards).
